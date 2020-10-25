@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Untitled</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <link rel="stylesheet" href="imooc.css" type="text/css">
+        <script type="text/javascript" src="jquery1.9.1.js"></script>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.js"></script>
+     
+    </head>
+        
+    <body>
+        <h2>基本选择器</h2>
+        <h3>:first/:last/:even/:odd</h3>
+        <div class="left">
+            <div class="div">
+                <p>div:first</p>
+                <p>:even</p>
+            </div>
+            <div class="div">
+                <p>:odd</p>
+            </div>
+            <div class="div">
+                <p>:even</p>
+            </div>
+            <div class="div">
+                <p>:odd</p>
+            </div>
+            <div class="div">
+                <p>:even</p>
+            </div>
+            <div class="div">
+                <p>div:last</p>
+                <p>:odd</p>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var div1 = $('.div:first');
+            div1.css("color","#cd00cd");
+        </script>
+        <script type="text/javascript">
+            var div2 = $('.div:last');
+            div2.css("color","#cd00cd");
+        </script>
+        <script type="text/javascript">
+            var div3 = $('.div:even');
+            div3.css("border","3px groove red");
+        </script>
+        <script type="text/javascript">
+            var div4 = $('.div:odd');
+            div4.css("border","3px groove green");
+        </script>
+
+        <h3>:eq/:gt/:lt</h3>
+        <div class="left">
+            <div class="queue">
+                <p>:lt(3)</p>
+            </div>
+            <div class="queue">
+                <p>:lt(3)</p>
+            </div>
+            <div class="queue">
+                <p>:eq(2)</p>
+            </div>
+            <div class="queue"></div>
+            <div class="queue">
+                <p>:gt(3)</p>
+            </div>
+            <div class="queue">
+                <p>:gt(3)</p>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var newDiv = $('.queue:eq(2)');
+            newDiv.css("border","3px groove blue");
+        </script>
+        <script type="text/javascript">
+            var newDiv2 = $('.queue:gt(3)');
+            newDiv2.css("border","3px groove yellow");
+        </script>
+        <script type="text/javascript">
+            var newDiv3 = $('.queue:lt(2)');
+            newDiv3.css("border","3px groove orange");
+        </script>
+        
+        <h3>:not</h3>
+        <div class="left">
+            <div>
+                <input type="checkbox" name="a" />
+                <p>Lesson</p>
+            </div>
+            <div>
+                <input type="checkbox" name="b" />
+                <p>慕课</p>
+            </div>
+            <div>
+                <input type="checkbox" name="c" checked="checked" />
+                <p>其他</p>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var notDiv = $("input:not(:checked) + p");
+            notDiv.css("background-color","#cd00cd");
+        </script>
+
+        <!-- jquery 表单 input  -->
+        <div class="left first-div">
+            <form>
+                <input type="text" value="text类型" />
+                <input type="password" value="password" />
+                <input type="radio" />
+                <input type="checkbox" />
+                <input type="image"/>
+                <input type="reset" />
+                <input type="button" value="Button" />
+                <input type="file" />
+            </form>
+        </div>
+        <script type="text/javascript">
+            var inp = $('input:text');
+            inp.css("background","#a2cd5a");
+        </script>
+        <script type="text/javascript">
+            var pwd = $('input:password');
+            pwd.css("background","yellow");
+        </script>
+        <script>
+            var rad = $('input:radio');
+            rad.attr('checked','true');
+        </script>
+        <script>
+            var chk = $('input:checkbox');
+            chk.attr('checked','true');
+        </script>
+        <script>
+            var sub = $('input:submit');
+            sub.css("background","#c6e2ff");
+        </script>
+        <script>
+            var img = $('input:image');
+            img.css("background","f4a460");
+        </script>
+        <script>
+            var but = $('input:button');
+            but.css("background","red");
+        </script>
+        <script>
+            var fil = $('input:file');
+            fil.css("background","#cd1076");
+        </script><!-- jquery 表单 input end -->
+
+        <!-- 代码部分begin 第二章 2-16 综合案例 -->
+        <div id="menu">
+            <!-- tag标题 -->
+            <div id="menu_female">
+                <h3>女装</h3>
+                <div class="tag" style="display: block;">
+                    <dl>
+                        <dd>
+                            <p>第一类</p>
+                            <a>1.衬衫</a>
+                            <a>2.T恤</a>
+                            <a>3.雪纺衬</a>
+                            <a>4.针织衫</a>
+                            <a>5.短外套</a>
+                            <a>6.卫衣</a>
+                            <a>7.小西裤</a>
+                            <a>8.风衣</a>
+                            <a>9.吊带背心</a>
+                            <a>10.连衣裙</a>
+                            <a name="setColor">11.蕾丝连衣裙</a>
+                            <a>12.复古连衣裙</a>
+                            <a>13.印花连衣裙</a>
+                            <a>14.真丝连衣裙</a>
+                            <a>更多</a>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="tag_More" style="display: block;">
+                    <dl>
+                        <dd>
+                            <p>第二类</p>
+                            <a>1.背带裤</a>
+                            <a>2.哈伦裤</a>
+                            <a>3.牛仔裤</a>
+                            <a>4.休闲裤</a>
+                            <a>5.小脚裤</a>
+                            <a>6.西装裤</a>
+                            <a>7.打底裤</a>
+                            <a>8.阔腿裤</a>
+                            <a>9.短裤</a>
+                            <a>10.马甲/背心</a>
+                            <a>11.羽绒服</a>
+                            <a>12.棉服</a>
+                            <a>13.夹克</a>
+                            <a>14.POLO衫</a>
+                            <a>更多</a>
+                        </dd>
+                    </dl>
+                </div>
+                <div id="menu_con">
+                    <h3>男装</h3>
+                    <div class="tag" style="display: block;">
+                        <dl>
+                            <dd>
+                                <p>第一类</p>
+                                <a>1.衬衫</a>
+                                <a>2.T恤</a>
+                                <a>3.牛仔裤</a>
+                                <a>4.休闲裤</a>
+                                <a>5.短裤</a>
+                                <a>6.针织衫</a>
+                                <a>7.西服</a>
+                                <a>8.西裤</a>
+                                <a>9.嘻哈裤</a>
+                                <a>10.西服套装</a>
+                                <a>11.马甲/背心</a>
+                                <a name="setColor">12.羽绒服</a>
+                                <a>13.棉服</a>
+                                <a>14.夹克</a>
+                                <a>更多</a>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="tag_More" style="display: block;">
+                        <dl>
+                            <dd>
+                                <p>第二类</p>
+                                <a>1.衬衫</a>
+                                <a>2.针织衫</a>
+                                <a>3.牛仔裤</a>
+                                <a name="setColor">4.休闲裤</a>
+                                <a>5.短裤</a>
+                                <a>6.针织衫</a>
+                                <a>7.西服</a>
+                                <a>8.西裤</a>
+                                <a>9.嘻哈裤</a>
+                                <a>10.西服套装</a>
+                                <a>11.马甲/背心</a>
+                                <a>12.羽绒服</a>
+                                <a>13.棉服</a>
+                                <a>14.夹克</a>
+                                <a>更多</a>
+                            </dd>
+                        </dl>
+                    </div>
+                </div> 
+            </div>
+        </div>
+
+        <script>
+            var fir = $("#menu_con div.tag dd > p:first-child");
+            fir.css('color','#9932cc');
+            var sec = $("#menu_con div.tag dd > a:lt(4)");
+            sec.css('color','red');
+            var trd = $("#menu_con div.tag dd > a")
+        </script>
+
+        <!-- jquery .attr()(javascript DOM getAttribute/setAttribute) and .removeAttr()(javascript removeAttrivute) 用法 -->
+        <h2>.attr() 与 。removeAttr()</h2>
+        <h3>.attr</h3>
+        <form>
+            <input type="text" value="设置value" />
+            <input type="text" value="获取value" />
+            <input type="text" value="回调拼接value" />
+            <input type="text" value="删除value" />
+        </form>
+        <script>
+            var fir = $('input:first');
+            fir.attr('value','.attr( attribueName, value)');
+            var sec = $('input:eq(1)');
+            sec.attr('value');
+            var trd = $('input:eq(2)');
+            trd.attr('value',function(i,val){
+                return '通过function设置' + val;
+            });                                
+            /* trd.attr('value',function(i,val){
+                return i;
+            }); */
+            var forth = $('input:eq(3)');
+            forth.removeAttr('value');
+        </script>
+
+        <!-- jquery 存储接口 .data() .removeData() -->
+        <h2>jQuery.data()静态方法</h2>
+        <div class="left">
+            <div class="aaron">
+                <p>点击查看结果</p>
+                <p>jQuery.data</p>
+            </div>
+            <div><span></span></div>
+        </div>
+        <h2>.data()实例方法</h2>
+        <div class="right">
+            <div class="aaron">
+                <p>点击查看结果</p>
+                <p>.data</p>
+            </div>
+            <div><span></span></div>
+        </div>
+        
+
+        <script>
+            $('.left').click(function(){
+                var ele = $(this);
+                /* 通过$.data 方式设置数据 */
+                $.data(ele,"a","data test");
+                $.data(ele,"b",{ name : "慕课网"});
+
+                //通过$.data方式取出数据
+                var reset = $.data(ele,"a") + "</br>" + $.data(ele,"b").name;
+                ele.find('span').append(reset);
+            });
+            
+
+            $('.right').click(function(){
+                var ele = $(this);
+                /* 通过$.data 方式设置数据 */
+                ele.data("a","data test");
+                ele.data("b",{ name : "慕课网"});
+
+                //通过$.data方式取出数据
+                var reset = ele.data("a") + "</br>" + ele.data("b").name;
+                ele.find('span').append(reset);
+            });
+        </script>
+    </body>
+
+</html>

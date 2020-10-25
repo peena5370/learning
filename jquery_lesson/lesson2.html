@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Untitled</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <link rel="stylesheet" href="imooc2.css" type="text/css">
+        <script type="text/javascript" src="jquery-1.9.1.js"></script>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.js"></script>
+     
+    </head>
+        
+    <body>
+        <!-- jquery DOM -->
+        <h2>动态创建元素节点</h2>
+        <div class="left">
+            <div class="aaron">点击body区域会动态穿件元素节点</div>
+        </div>
+        <script>
+            var body = document.querySelector('body');
+            document.addEventListener('click',function(){
+                //创建2个div元素
+                var rightdiv = document.createElement('div');
+                var rightaaron = document.createElement("div");
+                //给2个div设置不同属性
+                rightdiv.setAttribute('class','right');
+                rightaaron.className = 'aaron';
+                rightaaron.innerHTML = "动态创建div元素节点";
+                //2个div合并包含关系
+                rightdiv.appendChild(rightaaron);
+                //绘制到页面body
+                body.appendChild(rightdiv);
+            },false);
+        </script>
+    </body>
+
+</html>
