@@ -1259,7 +1259,8 @@ public class hellotest {
 		} else {
 			// Regular Expression(result = new OtherClass() {public int calculateInt(int a, int b) {}
 			result = (int a, int b) -> {
-				return a - b;														};
+				return a - b;
+			};
 		}
 		return result;
 	}
