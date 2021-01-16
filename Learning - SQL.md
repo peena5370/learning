@@ -235,7 +235,9 @@ CREATE TABLE tableName (
   countryName char(50) NULL,
   contactNum  char(50)  NULL,
   emailAddr char(255) NULL,
-  PRIMARY KEY(fieldID)
+  foreignkeyID  int,
+  PRIMARY KEY(fieldID),
+  FOREIGN KEY(foreignkeyID) REFERENCES tableName2(foreignkeyID)
 ) ENGINE=InnoDB;
 -- Datatypes for declaring fieldName
 fieldID int,
