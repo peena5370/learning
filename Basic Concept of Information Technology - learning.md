@@ -2,7 +2,7 @@
 
 ### Topic 1
 - IT has been used in the latest IT and information and communication technology(ICT) gadgets,the portable devices such as smart phone and tablet
-- 21st century has brought the information era, the rapid pace computerised systems being used in almost all types of areas, from medical and space exploration to education, as well as banking and manufacturing sectors
+- 21st century has brought the information era, the rapid pace computerized systems being used in almost all types of areas, from medical and space exploration to education, as well as banking and manufacturing sectors
 - Evolution of Agricultural, Industrial and Information Era
 ```html
 <style>
@@ -43,16 +43,16 @@
 - 6 features that differentiate the information era from the previous eras:
     1. Emergence of an Information-Based Society
     2. Success of Business and Management Jobs Depends on IT
-    3. Work Processes are Changed and Transformed to Upgrade Productibity
-    4. It Provides Basis for Optimisation
+    3. Work Processes are Changed and Transformed to Upgrade Producibility
+    4. It Provides Basis for Optimization
     5. Success in IT Depends on the Effectiveness in Using It
     6. IT is Embedded or Integrated into Many Products and Services
-- _Definitions of Information Technology:_ It defines as a broad-based technology required to support information systems, activities that involves in creation, storage, manipulation and communication of information, together withe their related methods, management and applications. 
+- _Definitions of Information Technology:_ It defines as a broad-based technology required to support information systems, activities that involves in creation, storage, manipulation and communication of information, together with their related methods, management and applications. 
 - 5 components of Information Technology:
-    1. _Data_: A collection of raw facts and figures that are used by programs to produce useful information. This data can be organised in databases or file systems.
-    2. _Prodecures_: These are policies that define how and by whom the IT is used, actions that are used by people when processing data into information, operating prodecures to operate the computer, data entry, communication, maintenance, back-up, recovery and troubleshooting.
+    1. _Data_: A collection of raw facts and figures that are used by programs to produce useful information. This data can be organized in databases or file systems.
+    2. Procedures: These are policies that define how and by whom the IT is used, actions that are used by people when processing data into information, operating procedures to operate the computer, data entry, communication, maintenance, back-up, recovery and troubleshooting.
     3. _Software_: Computer programs such as application software(word processor, spreadsheet, graphical package, databases, etc.) and system software(OS, communication software, etc.).
-    4. _People_: Information systems are program by people and people are also the users of IT availabel. The success or failure of an IT system depends on people too.
+    4. _People_: Information systems are program by people and people are also the users of IT available. The success or failure of an IT system depends on people too.
     5. _Hardware_: This consists of the computer and its components; input hardware(keyboard, mouse, etc.), processing hardware(processor, memory, etc.), output hardware(monitor, printer, etc.), storage hardware(disk drive, etc.) and communication devices(modem, etc.).
 - Principles of Information Technology
 ```html
@@ -187,14 +187,14 @@ table, tr, td {
 
 
 ### Topic 2
-- Centrol Processing Unit(CPU) is used to execute the sotred software instructions, turning data into information. The instruction are execute in machine language.
+- Central Processing Unit(CPU) is used to execute the stored software instructions, turning data into information. The instruction are execute in machine language.
 - There are 2 sections in a CPU:
     1. _Control Unit_
         - Directs other units/sections to execute instructions. Control Unit does not execute instructions.
         - Controls and coordinates all computer activities following instructions received from computer programs.
         - Directs data movements between memory and ALU, between memory and I/O devices
     2. _Arithmetic Logic Unit(ALU)
-        - Bacis arithmetic operations like addition(+), subtraction(-), multiplication(*) and division(/). Compares operations like equal to(=), less than(<), or more than(>) between two sets of data.
+        - Basic arithmetic operations like addition(+), subtraction(-), multiplication(*) and division(/). Compares operations like equal to(=), less than(<), or more than(>) between two sets of data.
         - Logical operations like AND, OR, and NOT
 
 - _Microprocessor Chip:_ 2 types of microprocessor chips:
@@ -231,7 +231,7 @@ table, tr, td {
         1. Keyboard
         2. Terminal (Dumb terminals, Intelligent terminals, terminals)
         3. Pointing Device (mouse, touch pad, etc.)
-        4. Scanning device(Scanner, barcode reader, Optical Character Reader(OCR), Optical Mark Reader(OMR), etc)
+        4. Scanning device(Scanner, barcode reader, Optical Character Reader(OCR), Optical Mark Reader(OMR), etc.)
         5. Others(IR sensor, Sound sensor, etc.)
     - Output method:
         1. Soft copy
@@ -259,9 +259,9 @@ table, tr, td {
 
 ### Topic 5
 - _Computer software_
-    - categorised into system software(OS) and application software(GUI tools, databases, etc.)
+    - categorized into system software(OS) and application software(GUI tools, databases, etc.)
     - developed using programming languages
-    - application software use to solve specific problems like perfoming human tasks
+    - application software use to solve specific problems like performing human tasks
 - Categories of system software:
 ```html
 <style>
@@ -310,7 +310,7 @@ table, tr, td {
         5. help interaction between computers and users
         6. help communicate between computer components
         7. reduce time for execute user's instructions
-        8. optimise the use of computer system resources
+        8. optimize the use of computer system resources
         9. reach all files in the disc storage
         10. ensure safety of the computer system
         11. examine all system activities and give warnings to users on all matters
@@ -319,7 +319,7 @@ table, tr, td {
             - the ability of a computer system to perform more than one task at one time(simultaneously)
             - Cooperative multitasking and preemptive multitasking
         2. Multi-User
-            - The OS that is capable to accept more than one user to acces the computer at one time is called multi-user system
+            - The OS that is capable to accept more than one user to access the computer at one time is called multi-user system
         3. Multi-Processing
             - An OS that is capable of handling more than one processor simultaneously
         4. Batch Processing
@@ -331,19 +331,19 @@ table, tr, td {
         2. Mobile and Embedded OS
             - Windows Embedded, Windows Phone, Android, iOS, etc.
 - Categories of Application Software
-    1. Business software(Oracle SQL, MySql, Microsoft Office)
+    1. Business software(Oracle SQL, MySQL, Microsoft Office)
         - use for word processing, spreadsheet, database, presentation, personal information manager, accounting and more
     2. Graphic and multimedia software(Autodesk, Adobe Dreamviewer, Photoshop, AutoCAD)
         - use to handle and working with complex graphic and multimedia
     3. Home, personal and educational software(Windows Movie Makes)
         - Functions as photo editing, reference, home design. self-learning among the usage of personal and educational purpose
-    4. Communication software(Google Meet, Microsoft Outlook, Whatsapp, Chrome)
+    4. Communication software(Google Meet, Microsoft Outlook, WhatsApp, Chrome)
         - allows user to share information and communicate with each other effectively via various media.
         - offers capabilities such as web browsing, e-mail, instant messaging, video conferencing and more
 - Word Processing Software
     - a software that enables to create, edit, format, store and print texts and graphics in one document.
     - Portable documents:
-        - XML, HTML, PDF, postscript(ps) and more
+        - XML, HTML, PDF, postscript(.ps) and more
 - Spreadsheet Software(Excel)
     - consist of rows and columns and use to perform calculations whenever a number changes. 
 - Database Software
@@ -358,7 +358,7 @@ table, tr, td {
   - use to combine various visual objects to produce presentations that are attractive and joyful
   - Types of graphics software:
     1. decorative graphics(Microsoft Paint)
-    2. business/analytical graphics(Piechart, graph tools)
+    2. business/analytical graphics(Pie chart, graph tools)
     3. presentation graphics(PowerPoint)
     4. illustration graphics(Adobe Illustrator)
     5. animation graphics(Photoshop)
