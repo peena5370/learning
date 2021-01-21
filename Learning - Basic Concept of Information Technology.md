@@ -2,199 +2,79 @@
 
 ### Topic 1
 - IT has been used in the latest IT and information and communication technology(ICT) gadgets,the portable devices such as smart phone and tablet
-- 21st century has brought the information era, the rapid pace computerized systems being used in almost all types of areas, from medical and space exploration to education, as well as banking and manufacturing sectors
+- 21st century has brought the information era, the rapid pace computerised systems being used in almost all types of areas, from medical and space exploration to education, as well as banking and manufacturing sectors
 - Evolution of Agricultural, Industrial and Information Era
-```html
-<style>
-  table, tr, td {
-    border:1px solid black; 
-    border-collapse: collapse;
-    padding:3px; 
-    margin:0;
-  }
-</style>
-<table>
-  <tr  style="background-color: cornflowerblue; color: #FFF; text-align: center">
-    <td>Evolution</td>
-    <td>Agricultural Era</td>
-    <td>Industrial Era</td>
-    <td>Information Era</td>
-  </tr>
-  <tr>
-    <td>Mostly</td>
-    <td>Pleasants/farmers</td>
-    <td>Factory workers</td>
-    <td>Knowledge workers</td>
-  </tr>
-  <tr>
-    <td>Workers/partners</td>
-    <td>Man and land</td>
-    <td>Man and machine</td>
-    <td>Man and brain</td>
-  </tr>
-  <tr>
-    <td>Tools</td>
-    <td>Hand-based tools</td>
-    <td>Machineries</td>
-    <td>Computers/telecommunications</td>
-  </tr>
-</table>  
-```
+
+|  Evolution  |  Agricultural Era  |  Industrial Era  |  Information Era  |
+|  :-------:  |  :--------------:  |  :------------:  |  :-------------:  |
+|  Mostly  |  Pleasants/farmers  |  Factory workers  |  Knowledge workers  |
+|  Workers/partners  |  Man and land  |  Man and machine  |  Man and brain  |
+|  Tools  |  Hand-based tools  |  Machineries  |  Computers/telecommunications  |
+
+</br>
+
 - 6 features that differentiate the information era from the previous eras:
     1. Emergence of an Information-Based Society
     2. Success of Business and Management Jobs Depends on IT
-    3. Work Processes are Changed and Transformed to Upgrade Producibility
-    4. It Provides Basis for Optimization
+    3. Work Processes are Changed and Transformed to Upgrade Productibity
+    4. It Provides Basis for Optimisation
     5. Success in IT Depends on the Effectiveness in Using It
     6. IT is Embedded or Integrated into Many Products and Services
-- _Definitions of Information Technology:_ It defines as a broad-based technology required to support information systems, activities that involves in creation, storage, manipulation and communication of information, together with their related methods, management and applications. 
+- _Definitions of Information Technology:_ It defines as a broad-based technology required to support information systems, activities that involves in creation, storage, manipulation and communication of information, together with their related methods, management and applications.
 - 5 components of Information Technology:
-    1. _Data_: A collection of raw facts and figures that are used by programs to produce useful information. This data can be organized in databases or file systems.
-    2. Procedures: These are policies that define how and by whom the IT is used, actions that are used by people when processing data into information, operating procedures to operate the computer, data entry, communication, maintenance, back-up, recovery and troubleshooting.
+    1. _Data_: A collection of raw facts and figures that are used by programs to produce useful information. This data can be organised in databases or file systems.
+    2. _Prodecures_: These are policies that define how and by whom the IT is used, actions that are used by people when processing data into information, operating prodecures to operate the computer, data entry, communication, maintenance, back-up, recovery and troubleshooting.
     3. _Software_: Computer programs such as application software(word processor, spreadsheet, graphical package, databases, etc.) and system software(OS, communication software, etc.).
-    4. _People_: Information systems are program by people and people are also the users of IT available. The success or failure of an IT system depends on people too.
+    4. _People_: Information systems are program by people and people are also the users of IT availabel. The success or failure of an IT system depends on people too.
     5. _Hardware_: This consists of the computer and its components; input hardware(keyboard, mouse, etc.), processing hardware(processor, memory, etc.), output hardware(monitor, printer, etc.), storage hardware(disk drive, etc.) and communication devices(modem, etc.).
 - Principles of Information Technology
-```html
-<style>
-table, tr, td {
-  border:1px solid black; 
-  border-collapse: collapse;
-  padding:3px; 
-  margin:0;
-}
-</style>
-<table width="100%">
-  <tr style="background-color: cornflowerblue; color: #FFF; text-align: center;">
-    <td width="20%">Principle</td>
-    <td>Description</td>
-  </tr>
-  <tr>
-    <td width="20%">Reliable</td>
-    <td><p>It is imposibble to say that an IT system works 100% all the time.</br>Sometimes, it works 99% of the time and 1% it does not work.</br>However, it is important that reliability does not go below a certain threshold.</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Secure</td>
-    <td><p>The environment in which the IT system operates must be secure from unauthorised access or malicious destruction.</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Flexible</td>
-    <td><p>People are able to use the IT system anywhere they are and anytime.</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Foster innovation</td>
-    <td><p>Creativity in developing new software and hardware for the new era, such as early warning systems for bad weather.</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Responsive</td>
-    <td><p>IT system is able to provide a range of services.</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Easy and transparent</td>
-    <td><p>All the tools and facilities should be easy to learn and use.</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Consistent interoperability</td>
-    <td><p>The IT environment must be consistent, internationally accepted so that information acan be exchanged readily.</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Affordable</td>
-    <td><p>People should be able to afford the IT systems they intend to use.</p></td>
-  </tr>
-</table>
-```
+
+|  Principle  |  Description  |
+|  :--------  |  :----------  |
+|  Reliable  |  It is imposibble to say that an IT system works 100% all the time.</br>Sometimes, it works 99% of the time and 1% it does not work.</br>However, it is important that reliability does not go below a certain threshold.  |
+|  Secure  |  The environment in which the IT system operates must be secure from unauthorised access or malicious destruction.  |
+|  Flexible  |  People are able to use the IT system anywhere they are and anytime.  |
+|  Foster innovation  |  Creativity in developing new software and hardware for the new era, such as early warning systems for bad weather.  |
+|  Responsive  |  IT system is able to provide a range of services.  |
+|  Easy and transparent  |  All the tools and facilities should be easy to learn and use.  |
+|  Consistent interoperability  |  The IT environment must be consistent, internationally accepted so that information acan be exchanged readily.  |
+|  Affordable  | People should be able to afford the IT systems they intend to use.  |
+
+</br>
+
 - 6 Functions of Information Technology
-```html
-<style>
-  table, tr, td {
-    border:1px solid black; 
-    border-collapse: collapse;
-    padding:3px; 
-    margin:0;
-  }
-</style>
-<table width="100%">
-  <tr style="background-color: cornflowerblue; color: #FFF; text-align: center;">
-    <td width="20%">Function</td>
-    <td>Definition</td>
-    <td>Example</td>
-  </tr>
-  <tr>
-    <td width="20%">Collecting</td>
-    <td><p>Collecting records of activities to be used later</p></td>
-    <td><p>Reading voter information, reading electricity meters</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Processing</td>
-    <td><p>The process of changing, analysing, calculating and synthesising all forms of data or information</p></td>
-    <td><p>Counting votes, processing of electricity bills, word processing, processing of taxes</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Generating</td>
-    <td><p>Assembling information into useful forms, whether as text, audio or image</p></td>
-    <td><p>Electricity bills, tables, graphs, charts on discs, tapes, CD_ROM files</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Storing</td>
-    <td><p>The computing process of storing data and information to be used later</p></td>
-    <td><p>Income tax records, society membership records, traffic offence records</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Retrieving</td>
-    <td><p>Locating data and obtaining them again</p></td>
-    <td><p>Faxes, e-mails, voice mails, reports</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Delivering</td>
-    <td><p>Taking/sending/presenting to</p></td>
-    <td><p>E-mails, voice mails</p></td>
-  </tr>
-</table> 
-```
+
+|  Function  |  Definition  |  Example  |
+|  :-------  |  :---------  |  :------  |
+|  Collecting  |  Collecting records of activities to be used later  |  Reading voter information, reading electricity meters  |
+|  Processing  |  The process of changing, analysing, calculating and synthesising all forms of data or information  |  Counting votes, processing of electricity bills, word processing, processing of taxes  |
+|  Storing  |  The computing process of storing data and information to be used later  |  Income tax records, society membership records, traffic offence records  |
+|  Retrieving  |  Locating data and obtaining them again  |  Faxes, e-mails, voice mails, reports  |
+|  Delivering  |  Taking/sending/presenting to  |  E-mails, voice mails  |
+
+</br>
+
 - 4 Benefits of Information Technology
-```html
-<style>
-  table, tr, td {
-    border:1px solid black; 
-    border-collapse: collapse;
-    padding:3px; 
-    margin:0;
-  }
-</style>
-<table width="100%">
-  <tr style="background-color: cornflowerblue; color: #FFF; text-align: center;">
-    <td width="20%">Benefit</td>
-    <td>Definition</td>
-  </tr>
-  <tr>
-    <td width="20%">Speed</td>
-    <td><p>A relative value - computers can perform within seconds, at speeds that are much faster than humans.</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Consistency</td>
-    <td><p>Computers are efficient in doing repetitive jobs consistently, i.e. producing the same results for the same jobs.</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Accuracy</td>
-    <td><p>Computers work very accurately - tracking even small differences.</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Reliability</td>
-    <td><p>With their speed, consistency and accuracy, we can trust and rely on computers in producing the same results again and again.</p></td>
-  </tr>
-</table> 
-```
+
+|  Benefit  |  Definition  |
+|  :------  |  :---------  |
+|  Speed  |  A relative value - computers can perform within seconds, at speeds that are much faster than humans.  |
+|  Consistency  |  Computers are efficient in doing repetitive jobs consistently, i.e. producing the same results for the same jobs.  |
+|  Accuracy  |  Computers work very accurately - tracking even small differences.  |
+|  Reliability  |  With their speed, consistency and accuracy, we can trust and rely on computers in producing the same results again and again.  |
+
+</br>
 
 
 ### Topic 2
-- Central Processing Unit(CPU) is used to execute the stored software instructions, turning data into information. The instruction are execute in machine language.
+- Centrol Processing Unit(CPU) is used to execute the sotred software instructions, turning data into information. The instruction are execute in machine language.
 - There are 2 sections in a CPU:
     1. _Control Unit_
         - Directs other units/sections to execute instructions. Control Unit does not execute instructions.
         - Controls and coordinates all computer activities following instructions received from computer programs.
         - Directs data movements between memory and ALU, between memory and I/O devices
     2. _Arithmetic Logic Unit(ALU)
-        - Basic arithmetic operations like addition(+), subtraction(-), multiplication(*) and division(/). Compares operations like equal to(=), less than(<), or more than(>) between two sets of data.
+        - Bacis arithmetic operations like addition(+), subtraction(-), multiplication(*) and division(/). Compares operations like equal to(=), less than(<), or more than(>) between two sets of data.
         - Logical operations like AND, OR, and NOT
 
 - _Microprocessor Chip:_ 2 types of microprocessor chips:
@@ -231,7 +111,7 @@ table, tr, td {
         1. Keyboard
         2. Terminal (Dumb terminals, Intelligent terminals, terminals)
         3. Pointing Device (mouse, touch pad, etc.)
-        4. Scanning device(Scanner, barcode reader, Optical Character Reader(OCR), Optical Mark Reader(OMR), etc.)
+        4. Scanning device(Scanner, barcode reader, Optical Character Reader(OCR), Optical Mark Reader(OMR), etc)
         5. Others(IR sensor, Sound sensor, etc.)
     - Output method:
         1. Soft copy
@@ -259,42 +139,20 @@ table, tr, td {
 
 ### Topic 5
 - _Computer software_
-    - categorized into system software(OS) and application software(GUI tools, databases, etc.)
+    - categorised into system software(OS) and application software(GUI tools, databases, etc.)
     - developed using programming languages
-    - application software use to solve specific problems like performing human tasks
+    - application software use to solve specific problems like perfoming human tasks
 - Categories of system software:
-```html
-<style>
-  table, tr, td {
-    border:1px solid black; 
-    border-collapse: collapse;
-    padding:3px; 
-    margin:0;
-  }
-</style>
-<table width="100%">
-  <tr style="background-color: cornflowerblue; color: #FFF; text-align: center;">
-    <td width="20%">System Software</td>
-    <td>Roles</td>
-  </tr>
-  <tr>
-    <td width="20%">Operating System</td>
-    <td><p>Program that operates microcomputers. It coordinates resources, provides interfaces between users and the computer and runs the applications.</p></td>
-    </tr>
-  <tr>
-    <td width="20%">Utility Programs</td>
-    <td><p>Perform special tasks related to the management of computer resources and files. It includes programs that help users to identify problems on the hardware, searching lost files and making copies of data. In other words, a utility program functions as a virus sacanner, hardisk formatter, compression software and copy-making software.</p></td>
-    </tr>
-  <tr>
-    <td width="20%">Device Driver</td>
-    <td><p>Program that is specially designed to allow input and output devices to communicate with other computer systems.</p></td>
-    </tr>
-  <tr>
-    <td width="20%">Language Translators</td>
-    <td><p>Translate program instructions that have been written by a programmer into a language that is understood and processed by the computer. Language translators include compilers, translators and assemblers.</p></td>
-    </tr>
-</table>
-```
+
+|  System Software  |  Roles  |
+|  :--------------  |  :----  |
+|  Operating System  |  Program that operates microcomputers. It coordinates resources, provides interfaces between users and the computer and runs the applications.  |
+|  Utility Programs  |  Perform special tasks related to the management of computer resources and files. It includes programs that help users to identify problems on the hardware, searching lost files and making copies of data.</br>In other words, a utility program functions as a virus sacanner, hardisk formatter, compression software and copy-making software.  |
+|  Device Driver  |  Program that is specially designed to allow input and output devices to communicate with other computer systems.  |
+|  Language Translators  |  Translate program instructions that have been written by a programmer into a language that is understood and processed by the computer. Language translators include compilers, translators and assemblers.  |
+
+</br>
+
 - Operating System
     - Act as functions to manage resources, provide UI, run applications and perform various types of tasks.
     - Types of OS:
@@ -310,7 +168,7 @@ table, tr, td {
         5. help interaction between computers and users
         6. help communicate between computer components
         7. reduce time for execute user's instructions
-        8. optimize the use of computer system resources
+        8. optimise the use of computer system resources
         9. reach all files in the disc storage
         10. ensure safety of the computer system
         11. examine all system activities and give warnings to users on all matters
@@ -319,7 +177,7 @@ table, tr, td {
             - the ability of a computer system to perform more than one task at one time(simultaneously)
             - Cooperative multitasking and preemptive multitasking
         2. Multi-User
-            - The OS that is capable to accept more than one user to access the computer at one time is called multi-user system
+            - The OS that is capable to accept more than one user to acces the computer at one time is called multi-user system
         3. Multi-Processing
             - An OS that is capable of handling more than one processor simultaneously
         4. Batch Processing
@@ -331,19 +189,19 @@ table, tr, td {
         2. Mobile and Embedded OS
             - Windows Embedded, Windows Phone, Android, iOS, etc.
 - Categories of Application Software
-    1. Business software(Oracle SQL, MySQL, Microsoft Office)
+    1. Business software(Oracle SQL, MySql, Microsoft Office)
         - use for word processing, spreadsheet, database, presentation, personal information manager, accounting and more
     2. Graphic and multimedia software(Autodesk, Adobe Dreamviewer, Photoshop, AutoCAD)
         - use to handle and working with complex graphic and multimedia
     3. Home, personal and educational software(Windows Movie Makes)
         - Functions as photo editing, reference, home design. self-learning among the usage of personal and educational purpose
-    4. Communication software(Google Meet, Microsoft Outlook, WhatsApp, Chrome)
+    4. Communication software(Google Meet, Microsoft Outlook, Whatsapp, Chrome)
         - allows user to share information and communicate with each other effectively via various media.
         - offers capabilities such as web browsing, e-mail, instant messaging, video conferencing and more
 - Word Processing Software
     - a software that enables to create, edit, format, store and print texts and graphics in one document.
     - Portable documents:
-        - XML, HTML, PDF, postscript(.ps) and more
+        - XML, HTML, PDF, postscript(ps) and more
 - Spreadsheet Software(Excel)
     - consist of rows and columns and use to perform calculations whenever a number changes. 
 - Database Software
@@ -358,7 +216,7 @@ table, tr, td {
   - use to combine various visual objects to produce presentations that are attractive and joyful
   - Types of graphics software:
     1. decorative graphics(Microsoft Paint)
-    2. business/analytical graphics(Pie chart, graph tools)
+    2. business/analytical graphics(Piechart, graph tools)
     3. presentation graphics(PowerPoint)
     4. illustration graphics(Adobe Illustrator)
     5. animation graphics(Photoshop)
@@ -369,42 +227,17 @@ table, tr, td {
   - use to interact with computer
   - Basic, C, C++, Java
 - Benefits of Understanding Programming Languages:
-```html
-<style>
-  table, tr, td {
-    border:1px solid black; 
-    border-collapse: collapse;
-    padding:3px; 
-    margin:0;
-  }
-</style>
-<table width="100%">
-  <tr style="background-color: cornflowerblue; color: #FFF; text-align: center;">
-    <td width="20%">Benefit</td>
-    <td>Elaboration</td>
-  </tr>
-  <tr>
-    <td width="20%">Knowing superiority of the programming languages and where it is suitable to be used</td>
-    <td><p>For example, if development involves a rapid prototype, then , it is more efficient to use scripting language like Python, rather than using C or C++</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Understanding weaknesses of the programming languages</td>
-    <td><p>Each language is suitable for one field. For example, to develop graphical user interface(GUI), it is more efficient to use C++ or Java rather than C. To do a lot of calculations, Fortran is more suitable than Java or C.</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Producing more efficient solutions</td>
-    <td><p>If a user understands a few programming languages, he/she can use the most efficient language for solving problem. For example, if the solution requires access to databases, it is better to use scripting language like Python for linking rather than C or C++.</p></td>
-  </tr>
-  <tr>
-    <td width="20%">Programming languages will influence users' thinking in solving problems</td>
-    <td><p>For example, an object-oriented language will make user think of a solution based on the object concept, while a logic-based language will make the user think of the solution, based on logic.</p></td>
-  </tr>
-  <tr>  
-    <td width="20%">Programming languages are tools for solving problems by using the computer</td>
-    <td><p>Most problems are more efficiently solved by experts in the respective fields. Therefore, experts in certain fields can learn appropriate programming languages in order to solve their problems.</p></td>
-  </tr>
-</table>
-```
+
+|  Benefit  |  Elaboration  |
+|  :------  |  :----------  |
+|  Knowing superiority of the programming languages and where it is suitable to be used  |  For example, if development involves a rapid prototype, then , it is more efficient to use scripting language like Python, rather than using C or C++  |
+|  Understanding weaknesses of the programming languages  |  Each language is suitable for one field. For example, to develop graphical user interface(GUI), it is more efficient to use C++ or Java rather than C. To do a lot of calculations, Fortran is more suitable than Java or C.  |
+|  Producing more efficient solutions  |  If a user understands a few programming languages, he/she can use the most efficient language for solving problem. For example, if the solution requires access to databases, it is better to use scripting language like Python for linking rather than C or C++.  |
+|  Programming languages will influence users' thinking in solving problems  |  For example, an object-oriented language will make user think of a solution based on the object concept, while a logic-based language will make the user think of the solution, based on logic.  |
+|  Programming languages are tools for solving problems by using the computer  |  Most problems are more efficiently solved by experts in the respective fields. Therefore, experts in certain fields can learn appropriate programming languages in order to solve their problems.  |
+
+</br>
+
 - Programming Language Generations
   - 5 Generations of Programming Language:
     1. 1st - Machine Language(binary)
@@ -488,50 +321,19 @@ table, tr, td {
 
 ### Topic 10
 - Impacts of Information Technology in Society
-```html
-<style>
-  table, tr, td {
-    border:1px solid black; 
-    border-collapse: collapse;
-    padding:3px; 
-    margin:0;
-  }
-</style>
-<table width="100%">
-  <tr style="background-color: cornflowerblue; color: #FFF; text-align: center;">
-    <td width="20%">Impact</td>
-    <td>Details</td>
-  </tr>
-  <tr>  
-    <td width="20%">Societal solutions</td>
-    <td><p>IT can address the needs of people on the street and provide solutions to several problems in our society. Societal networking software like e-mail, Facebook and chatting help people to communicate and interact easily and quickly making distance quite a trivial matter. The world also has been transformed into a virtual global village and without borders.</p></td>
-  </tr>
-  <tr>  
-    <td width="20%">Employment</td>
-    <td><p>The impact on workers who feel financially threatened, such as in factories where the management reduces staff size because of some processes being replaced by robots. Similarly, in the banking field when they use automated teller machine(ATM) and online banking, which make the traditional cashiers redundant.</p></td>
-  </tr>
-  <tr>  
-    <td width="20%">Working conditions</td>
-    <td><p>When the used of IT improves, so does the quality of work and environment. What used to be physical has now become largely mental work.</p></td>
-  </tr>
-  <tr>  
-    <td width="20%">Health</td>
-    <td><p>Where the use of IT hardware can endanger its users, such as spoiling eyesight, exposure to radiation and strain on the back.</p></td>
-  </tr>
-  <tr>  
-    <td width="20%">Privacy</td>
-    <td><p>Where personal information, computerised comparison, information mining and e-mails are exposed to personal trespassing.</p></td>
-  </tr>
-  <tr>  
-    <td width="20%">Individuality</td>
-    <td><p>In system development, one must think of human factor, ergonomic factor and the possibility of information system failure.</p></td>
-  </tr>
-  <tr>  
-    <td width="20%">Crime</td>
-    <td><p>This can happen as a result of a wide use of IT, such as cloning credit cards and siphoning money out of a bank account.</p></td>
-  </tr>
-</table>
-```
+
+|  Impact  |  Details  |
+|  :-----  |  :------  |
+|  Societal solutions  |  IT can address the needs of people on the street and provide solutions to several problems in our society. Societal networking software like e-mail, Facebook and chatting help people to communicate and interact easily and quickly making distance quite a trivial matter. The world also has been transformed into a virtual global village and without borders.  |
+|  Employment  |  The impact on workers who feel financially threatened, such as in factories where the management reduces staff size because of some processes being replaced by robots. Similarly, in the banking field when they use automated teller machine(ATM) and online banking, which make the traditional cashiers redundant.  |
+|  Working conditions  |  When the used of IT improves, so does the quality of work and environment. What used to be physical has now become largely mental work.  |
+|  Health  |  Where the use of IT hardware can endanger its users, such as spoiling eyesight, exposure to radiation and strain on the back.  |
+| Privacy  |   Where personal information, computerised comparison, information mining and e-mails are exposed to personal trespassing.  |
+|  Individuality  |  In system development, one must think of human factor, ergonomic factor and the possibility of information system failure.  |
+|  Crime  |  This can happen as a result of a wide use of IT, such as cloning credit cards and siphoning money out of a bank account.  |
+
+</br>
+
 - Computer System Control and Security Issues
   1. threats to computer security
     - computer and information security is the protection of data from accidental or deliberate threats, which might cause unauthorized modification, disclosure or destruction of data. It also refers to the protection of information system from degradation(or non-availability) of services.
@@ -552,38 +354,16 @@ table, tr, td {
         - technology failures
         - human error
     - Controls for computer Security
-    ```html
-    <style>
-    table, tr, td {
-      border:1px solid black; 
-      border-collapse: collapse;
-      padding:3px; 
-      margin:0;
-    }
-    </style>
-    <table width="100%">
-      <tr style="background-color: cornflowerblue; color: #FFF; text-align: center;">
-        <td width="20%">Control</td>
-        <td>Example</td>
-      </tr>
-      <tr>  
-        <td width="20%">Input control</td>
-        <td><p>Security codes, data entry screen, error signals and control totals.</p></td>
-      </tr>
-      <tr>  
-        <td width="20%">Processing control</td>
-        <td><p>Software control, hardware control and checkpoint control.</p></td>
-      </tr>
-      <tr>  
-        <td width="20%">Output control</td>
-        <td><p>Security codes, control total, list control and user feedbacks.</p></td>
-      </tr>
-      <tr>  
-        <td width="20%">Storage control</td>
-        <td><p>Security codes, storage files, library method and database administration.</p></td>
-      </tr>
-    </table> 
-    ```
+
+  |  Control  |  Example  |
+  |  :------  |  :------  |
+  |  Input control  |  Security codes, data entry screen, error signals and control totals.  |
+  |  Processing control  |  Software control, hardware control and checkpoint control.  |
+  |  Output control  |  Security codes, control total, list control and user feedbacks.  |
+  |  Storage control  |  Security codes, storage files, library method and database administration.  |
+
+    </br>
+
     - Information Privacy
   2. Computer and Health
     - Computer and health risks
