@@ -60,55 +60,31 @@
     - beacause, since, for, follows from the fact that, the reasons are, firstly, secondly
 - Thinking Map for understanding and evaluating reasoning
   - Thinking Map - Skillful Analysis and Evaluation of Arguments
-  ```html
-  <style>
-    table, tr, td {
-      border:1px solid black; 
-      border-collapse: collapse;
-      padding:3px; 
-      margin:0;
-    }
-  </style>
-  <table width="100%">
-    <tr style="background-color: cornflowerblue; color: #FFF;">
-      <td>Analysis</td>
-    </tr>
-    <tr>
-      <td><p>1. What is/are the main conclusion(s)?</br>(May be stated or unstated; may be in the forms of recommendations, or explanations and so on. The presence of conclusion indicator words such as "therefore" may help.)</br>
-      [Aim: It helps in organising our thinking about a piece of reasoning if we know what the author is trying to persuade and/or convince us]
-      </p></td>
-    </tr>
-    <tr>
-      <td><p>2. What are the reasongs(data, evidence, etc) and their structure?</p></td>
-    </tr>
-    <tr>
-      <td><p>3. What is assumed(that is, implicit or taken for granted, perhaps in the context)?</p></td>
-    </tr>
-    <tr>
-      <td><p>4. Clarify the meaning(by the terms, claims or arguments) which needs it.</p></td>
-    </tr>
-  </table>
-  </br>
-  <table width="100%">
-    <tr style="background-color: cornflowerblue; color: #FFF;">
-      <td>Evaluation</td>
-    </tr>
-    <tr>
-      <td><p>5. Are the reasons acceptable?</br>(These include explicit and unstated assumptions - these may also involve evaluating factual claims, definitions and value judgements and judging the credibility of the source.)</p></td>
-    </tr>
-    <tr>
-      <td><p>(a) Does the reasoning support its conclusion(s)?</br>
+
+    |  Analysis  |
+    |  :---------  |
+    1. What is/are the main conclusion(s)?
+       (May be stated or unstated; may be in the forms of recommendations, or explanations and so on. The presence of conclusion indicator words such as "therefore" may help.)
+       [Aim: It helps in organising our thinking about a piece of reasoning if we know what the author is trying to persuade and/or convince us]
+    2. What are the reasongs(data, evidence, etc) and their structure?
+    3. What is assumed(that is, implicit or taken for granted, perhaps in the context)?
+    4. Clarify the meaning(by the terms, claims or arguments) which needs it.
+
+    </br>
+
+    |  Evaluation  |
+    |  :----------  |
+    5. Are the reasons acceptable? 
+        (These include explicit and unstated assumptions - these may also involve evaluating factual claims, definitions and value judgements and judging the credibility of the source.)</br>
+        (a) Does the reasoning support its conclusion(s)?</br>
         (For example, is the supporting argument strong as "beyond reasonable doubt" or weak)?</br>
         (b) Are there other relevant considerations/arguments which strengthen or weaken the case?</br>
         (You may already know these or may have to construct them)</br>
-        [Aim: Also called critico-creative thinking, which requires us to consider any other relevant ideas we know or can think up which will help us to arrive at a good judgement fro the case in hand].
-      </p></td>
-    </tr>
-    <tr>
-      <td><p>6. What is the overall evaluation based on what we have obtained above?</p></td>
-    </tr>
-  </table> 
-  ```
+        [Aim: Also called critico-creative thinking, which requires us to consider any other relevant ideas we know or can think up which will help us to arrive at a good judgement fro the case in hand].</br>
+    6. What is the overall evaluation based on what we have obtained above?
+
+    </br>
+
 - Acceptability of reasons
   - How to evaluate the reason systematically:
     1. Are the reasons _acceptable_(true, valid, factual, etc.)?
@@ -135,73 +111,37 @@
 - problem solving is a series of techniques, both cognitive and behavioural, that can be applied in various fields or areas to generate solutions
 - _Stages in Problem Solving_
   1. Recognising and Defining a Problem
-    ```html
-    <style>
-      table, tr, td {
-        border:1px solid black; 
-        border-collapse: collapse;
-        padding:3px; 
-        margin:0;
-      }
-    </style>
-    <table width="100%">
-      <tr style="background-color: cornflowerblue; color: #FFF; text-align: center;">
-        <td width="20%">Closed-ended Problems</td>
-        <td>Open-ended Problems</td>
-      </tr>
-      <tr>  
-        <td width="20%">Have one or a limited number of possible solutions.</td>
-        <td><p>Can be solved using many different methods.</p></td>
-      </tr>
-      <tr>  
-        <td width="20%">Problem analysis involves identifying all the possible causes before looking for a solution.</td>
-        <td><p>Problem analysis involves looking for information which will help to suggest a range of possible ways to solve the problem.</p></td>
-      </tr>
-    </table> 
-    ```
-    - analyse a problem throughly in order to fully understand it and subsequently come up with various solutions that can help in achieving the goals
-    - involves identify and bring together relevant information, and presenting it in a meaningful way
-  2. Finding Possible Solutions
-    - coming up with various actions to solve a problem involves finding out what appropriate actions to take, what the hindrances are and finally working towards achieving the goals.
-    - may be necessary to modify and combine ideas using any creative technique available in order to devise a workable solution
-  3. Selecting the Best Solution
-    - decision making process is made based on a comparison of the potential outcomes of alternative solutions
-    - Stage of decision making:
-      1. identify the solutions
-      2. eliminate the solutions that cannot overcome the limitations
-      3. evaluate the remaining solutions
-      4. evaluating the risks linked to the best solution
-      5. making decision on the chosen solution and implement it
-  4. Implementing the Solution
-    - Steps invloved in the implementation of a solution:
-    ```html
-    <style>
-      table, tr, td {
-        border:1px solid black; 
-        border-collapse: collapse;
-        padding:3px; 
-        margin:0;
-      }
-    </style>
-    <table width="100%">
-      <tr style="background-color: cornflowerblue; color: #FFF; text-align: center;">
-        <td width="30%">Step</td>
-        <td>Description</td>
-      </tr>
-      <tr>  
-        <td width="30%">Planning and preparing to implement the solution.</td>
-        <td><p>Involves the conclusion of all efforts and thorough planning that describes the sequence of actions needed to fulfill the objective, timescale and resources required at each stage.</p></td>
-      </tr>
-      <tr>  
-        <td width="30%">Taking the appropriate action and monitoring its effect.</td>
-        <td><p>Problems or potential problems have to be dealt with immediately in order to ensure that things run smoothly.</p></td>
-      </tr>
-      <tr>  
-        <td width="30%">Reviewing the success of the action.</td>
-        <td><p>This is important to estimate the efficacy of the action in solving future similar problems and to make sure that the problem has been solved.</p></td>
-      </tr>
-    </table>
-    ```
+
+  |  Closed-ended Problems  |  Open-ended Problems  |
+  |  :--------------------  |  :------------------  |
+  |  Have one or a limited number of possible solutions.  |  Can be solved using many different methods.  |
+  |  Problem analysis involves identifying all the possible causes before looking for a solution.  |  Problem analysis involves looking for information which will help to suggest a range of possible ways to solve the problem.  |
+
+  </br>
+  - analyse a problem throughly in order to fully understand it and subsequently come up with various solutions that can help in achieving the goals</br>
+  - involves identify and bring together relevant information, and presenting it in a meaningful way</br>
+  2. Finding Possible Solutions</br>
+    - coming up with various actions to solve a problem involves finding out what appropriate actions to take, what the hindrances are and finally working towards achieving the goals.</br>
+    - may be necessary to modify and combine ideas using any creative technique available in order to devise a workable solution</br>
+  3. Selecting the Best Solution</br>
+    - decision making process is made based on a comparison of the potential outcomes of alternative solutions</br>
+    - Stage of decision making:</br>
+      1. identify the solutions</br>
+      2. eliminate the solutions that cannot overcome the limitations</br>
+      3. evaluate the remaining solutions</br>
+      4. evaluating the risks linked to the best solution</br>
+      5. making decision on the chosen solution and implement it</br>
+  4. Implementing the Solution</br>
+    - Steps invloved in the implementation of a solution:</br>
+
+  |  Step  |  Description  |
+  |  :---:  |  :---  |
+  |  Planning and preparing to implement the solution.  |  Involves the conclusion of all efforts and thorough planning that describes the sequence of actions needed to fulfill the objective, timescale and resources required at each stage.  |
+  |  Taking the appropriate action and monitoring its effect.  |  Problems or potential problems have to be dealt with immediately in order to ensure that things run smoothly.  |
+  |  Reviewing the success of the action.  |  This is important to estimate the efficacy of the action in solving future similar problems and to make sure that the problem has been solved.  |
+
+</br>
+
 - _General Guidelines For Problem Solving_
   - Problem-solving cycle(PDCA)
     1. _PLAN_
@@ -276,6 +216,7 @@
     - establish foundations(motions, mistake rate(number))
     - localized problem(machines, process)
   - _What_ to be improved, _How much_ to be improved, by _When_
+    
     - deally describe the target and scope for problem solving
   - Breakdown the problem:
     1. What data to collect and analysed(with tour)
@@ -289,6 +230,7 @@
       3. Histogram(Frequency data)
   - Analyse the Root Cause using RCA tools(fishbone daigram, 5 WHY)
   - Include list of probable countermeasures
+    
     - action taken to counter, only 1 countermeasure is selected(select atleast 2 top root cause)
   - Implement countermeasure(action taken)
     1. List countermeasures and how to evaluated the problem
@@ -325,34 +267,14 @@
 ### Topic 5 - Development of Problem Solving
 - Development of Problem Solving
   - Aspects of the Development of problem solving
-  ```html
-  <style>
-    table, tr, td {
-      border:1px solid black; 
-      border-collapse: collapse;
-      padding:3px; 
-      margin:0;
-    }
-  </style>
-  <table width="100%">
-    <tr style="background-color: cornflowerblue; color: #FFF; text-align: center;">
-      <td width="50%">Aspect</td>
-      <td>Significant Stage in Life</td>
-    </tr>
-    <tr>  
-      <td width="50%">Formation strategies</td>
-      <td><p>Plays a vital role from infancy(birth to 12 months)</p></td>
-    </tr>
-    <tr>  
-      <td width="50%">Employment of varied representations(such as language, maps and models)</td>
-      <td><p>Shows more prominence during toodlerhood(one through three years)</p></td>
-    </tr>
-    <tr>  
-      <td width="50%">Cognitive self-regulation</td>
-      <td><p>Becomes more important during the pre-school years(three to five years) as children have more varied strategies and representations from which to select and greater cognitive resources to dedicate to planning, self-monitoring, and other regulatory processes.</p></td>
-    </tr>
-  </table>
-  ```
+
+  |  Aspect  |  Significant Stage in Life  |
+  |  :-----  |  :------------------------  |
+  |  Formation strategies  |  Plays a vital role from infancy(birth to 12 months)  |
+  |  Employment of varied representations(such as language, maps and models)  |  Shows more prominence during toodlerhood(one through three years)  |
+  |  Cognitive self-regulation  |  Becomes more important during the pre-school years(three to five years) as children have more varied strategies and representations from which to select and greater cognitive resources to dedicate to planning, self-monitoring, and other regulatory processes.  |
+
+</br>
 
 
 ### Topic 6 - Problem-Solving Strategies
